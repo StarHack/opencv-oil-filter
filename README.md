@@ -1,7 +1,7 @@
 # OpenCV Oil Filter + Text Masking
 #### Powered By MuetzenJunge (m.b.H)
 
-[![N|Solid](https://github.com/kpwn/yalu102/raw/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)]
+[![N|Solid](https://github.com/kpwn/yalu102/raw/master/yalu102/Assets.xcassets/AppIcon.appiconset/AppIcon60x60@3x.png?raw=true)](https://github.com/StarHack/opencv-oil-filter)
 
 # Description
 This code snipped demonstrates how to use OpenCV to generate an oil filter effect. It will perform the steps described below:
